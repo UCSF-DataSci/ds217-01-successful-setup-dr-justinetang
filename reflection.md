@@ -13,7 +13,8 @@ I'm taking this Python class to gain a solid foundation in programming. I hope t
 I'm most looking forward to learning how to use Python to solve real-world problems and to build things. Since AI is such a big thing at the moment, the idea of exploring how programming connects to fields like data science, especially the ability to find insights in large datasets excites me. My biggest concern is the steep learning curve, such as understanding complex concepts, but I'm willing to tackle and put in the effort to learn and ask questions when needed.
 ## 4. Share something you enjoy!
 [Drop a link to something you really enjoy - could be a website, article, video, project, hobby, book, podcast, or anything else you're into]
-https://www.youtube.com/channel/UC8xib1EjaAbsstncxXSUNZg
+
+Check out [World of Dance](https://www.youtube.com/channel/UC8xib1EjaAbsstncxXSUNZg).
 ---
 
 *Thank you for sharing! Your responses help me get to know you and hopefully make the course better!*
